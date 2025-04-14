@@ -1,0 +1,1 @@
+# Batch-Text-Extraction-with-Paddle-OCR-and-GPU
